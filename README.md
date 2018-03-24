@@ -1,0 +1,1 @@
+This will be my first rails project for the Odin Project course. 
